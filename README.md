@@ -1,2 +1,2 @@
 # nodeagi
-Simple AGI (Asterisk Gateway Interface) for writing dialplan scripts
+Node JS Asterisk Gateway Interface

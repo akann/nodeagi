@@ -17,7 +17,7 @@
     "pbx"
   ],
   "author": "Akan Nkweini <akan2000@gmail.com>",
-  "license": "GNU",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/akann/nodeagi/issues"
   },
